@@ -1,0 +1,70 @@
+/* add your CSS here */
+
+
+img{
+    /* width: 300px;
+    height: 300px; */
+    
+}
+
+.interest{
+    font: italic small-caps normal 18px/30px Georgia, serif;
+    margin: 10px;
+    padding: 15px;
+
+}
+
+ul li span {
+    font-weight: bold;
+    margin: 10px;
+    padding: 15px;
+    text-align: left;
+    font-size: 18px;
+    
+  }
+ul {
+    list-style-type: none;
+    text-align: left;
+    margin: 10px
+
+}
+p.d{
+    
+    margin: 10px;
+    padding: 15px;
+      
+}
+
+h3 {
+    margin : 10px;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  .container {
+    padding: 2px 16px;
+  }
+
+  .container .card{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s; 
+    width: 100%;
+    text-align: left;
+  }
+
+  .container .card:hover{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s; 
+  }
+
+/* div.solid {
+    border: double;
+} */
